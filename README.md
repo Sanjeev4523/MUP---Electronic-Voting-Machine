@@ -6,5 +6,5 @@ Problem Statement : Design a microprocessor Voting Machine which has provision f
 Project Includes the following Files
 - MUPfinal.asm - 8086 based code for the EVM
 - mupdesign.pdsprj - Proteus Implemenation of the EVM
-- Report - Submitted to our course Intructor
+- Report - Submitted to our course Instructor
 
